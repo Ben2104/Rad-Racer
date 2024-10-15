@@ -25,5 +25,5 @@ Lightning Car - Nitro Boost: Boost forward at 1.5x speed! Will crash into obstac
 Swift Bike - Wheelie: Has a 75% chance to boost forward at 2x spped! Will fall over 25% of the time. Will crash if into obstacles if you hit one.\
 Behemoth Truck - Ram: Ram forward at 2x speed! Will smash through obstacles.
 
-##Tech Stack:
+## Tech Stack:
 - Python 🐍
